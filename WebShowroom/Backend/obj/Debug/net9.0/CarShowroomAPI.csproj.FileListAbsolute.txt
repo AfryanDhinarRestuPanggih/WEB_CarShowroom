@@ -1,0 +1,317 @@
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.csproj.AssemblyReference.cache
+D:\WebShowroom\Backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.AssemblyInfoInputs.cache
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.AssemblyInfo.cs
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.csproj.CoreCompileInputs.cache
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\WebShowroom\Backend\bin\Debug\net9.0\appsettings.Development.json
+D:\WebShowroom\Backend\bin\Debug\net9.0\appsettings.json
+D:\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.staticwebassets.endpoints.json
+D:\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.exe
+D:\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.deps.json
+D:\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.runtimeconfig.json
+D:\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.pdb
+D:\WebShowroom\Backend\bin\Debug\net9.0\Azure.Core.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Azure.Identity.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Humanizer.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.ClientModel.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.CodeDom.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Memory.Data.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WebShowroom\Backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\WebShowroom\Backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\WebShowroom\Backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\WebShowroom\Backend\obj\Debug\net9.0\scopedcss\bundle\CarShowroomAPI.styles.css
+D:\WebShowroom\Backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\WebShowroom\Backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\WebShowroom\Backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\WebShowroom\Backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowr.C41809F7.Up2Date
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.dll
+D:\WebShowroom\Backend\obj\Debug\net9.0\refint\CarShowroomAPI.dll
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.pdb
+D:\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.genruntimeconfig.cache
+D:\WebShowroom\Backend\obj\Debug\net9.0\ref\CarShowroomAPI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\appsettings.Development.json
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\appsettings.json
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.staticwebassets.endpoints.json
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.exe
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.deps.json
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.runtimeconfig.json
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\CarShowroomAPI.pdb
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Azure.Core.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Azure.Identity.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Humanizer.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.ClientModel.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.CodeDom.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.csproj.AssemblyReference.cache
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.AssemblyInfoInputs.cache
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.AssemblyInfo.cs
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.csproj.CoreCompileInputs.cache
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.sourcelink.json
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\scopedcss\bundle\CarShowroomAPI.styles.css
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowr.C41809F7.Up2Date
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\refint\CarShowroomAPI.dll
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.pdb
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\CarShowroomAPI.genruntimeconfig.cache
+D:\Projek Visual Desktop\WebShowroom\Backend\obj\Debug\net9.0\ref\CarShowroomAPI.dll
